@@ -3,3 +3,5 @@
 sonar-project.properties
 .scannerwork/.sonar_lock
 .scannerwork/report-task.txt
+.odo/env
+.odo/odo-file-index.json
